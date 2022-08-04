@@ -1,2 +1,2 @@
-# jpeg-compression
-JPEG compression with python
+# JPEG Compression
+JPEG compression with python  
